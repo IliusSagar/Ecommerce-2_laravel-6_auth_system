@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<center><h3>You can register conformtly & Login smoothly</h3></center>
+<h3>You can register conformtly & Login smoothly</h3>
 
 ![auth](https://user-images.githubusercontent.com/89338796/180379529-46dbc65b-9965-43ae-b5de-a12afb6b91c9.JPG)
 
